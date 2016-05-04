@@ -1,0 +1,19 @@
+{
+    "name": "ppp/command",
+    "require": {
+        "league/tactician": "^1.0",
+        "league/tactician-bernard": "^0.5",
+        "pda/pheanstalk": "^3.1"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "^2.5"
+    },
+    "authors": [
+        {
+            "name": "Márk Sági-Kazár",
+            "email": "mark.sagi-kazar@db-n.com"
+        }
+    ],
+    "prefer-stable": true,
+    "minimum-stability": "dev"
+}
